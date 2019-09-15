@@ -1,2 +1,2 @@
 # Fun
-Fur fun stuff
+For fun stuff
